@@ -31,14 +31,7 @@
 # }
 
 def naming_system {
-  label: "kingdom",
-    sub_category: { 
-    label: "phylum", {
-    
-      
-    }
-    
-  }
+  
 }
   # Remember:
   #  Kingdom
