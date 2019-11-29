@@ -32,7 +32,7 @@
 
 def naming_system {
   label: "kingdom", {
-    sub_category 
+    sub_category: { 
     label: "phylum", {
       
     }
